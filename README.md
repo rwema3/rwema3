@@ -1,6 +1,6 @@
 ### Welcome to Rwanda's 1st Open Source Developer's Profile
-> ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=rwema3&theme=merko)
-> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rwema3&show_icons=true&theme=merko)
+> ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=rwema3&theme=algolia)
+> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rwema3&show_icons=true&theme=algolia)
 
 >Contact us:
 ```
