@@ -1,5 +1,4 @@
 <!-- ROADMAP -->
-#Happy New Year 2024
 
 ## Welcome to Developer's Profile of Rwanda's First Open Sourcerer
 
