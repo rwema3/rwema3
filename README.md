@@ -1,15 +1,10 @@
-<!-- ROADMAP -->
-
-## About Me
-
-### "My Heart is in the work" – Andrew Carnegie
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rwema3)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rwema3)
+## "My Heart is in the Work" – Andrew Carnegie
 
 ---
 
 ## Contact
 
-**Business Email:** info@rwema.com  
-**Business Phone:** +1 929 243-9787
+**Email:** info@rwema.com  
+**Phone:** +1 929 243-9787  
+**Website:** [rwema.com](https://rwema.com)  
+**GitHub:** [github.com/rwema3](https://github.com/rwema3)
