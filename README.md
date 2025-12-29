@@ -3,8 +3,8 @@
 ## </>
 
 ### "My Heart is in the work"- Andrew Carnegie
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=rwema3&theme=onedark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rwema3&show_icons=true&theme=onedark)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=rwema3&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rwema3&show_icons=true&theme=dracula)
 
 
 
