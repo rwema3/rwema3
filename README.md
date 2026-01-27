@@ -16,6 +16,3 @@ Founder of **RwemaHub** | Senior Programmer | AI Enthusiast | White Hat H**ker
 
 ## Contact
 
-**Email:** info@rwema.com  
-**Phone:** +1 929 243-9787  
-**Web:** [rwema.com](https://rwema.com) 
