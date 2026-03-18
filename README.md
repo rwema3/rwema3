@@ -4,7 +4,7 @@
 
 ### About
 
-Founder of **RwemaHub** | Senior Programmer | AI Enthusiast | White Hat H**ker  
+Founder of a research & Innovation hub, **RwemaHub**, an experienced Software Engineer, IT Professional, and Researcher with a strong background in computer programming, software engineering, managerial technology services, and Leadership. Skilled in developing innovative, cutting-edge solutions that address real-world challenges and optimize organizational workflows. Possesses a proven ability to manage complex projects and lead cross-functional teams in both local and international settings. A strong communicator and problem-solver, committed to delivering impactful results through technology and strategic collaboration.
 
 **Interests:** AI | Neural Networks | Space & Universe 🌌 | Politics | Research  
 
